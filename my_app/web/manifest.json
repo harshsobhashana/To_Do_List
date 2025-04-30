@@ -1,6 +1,6 @@
 {
-    "name": "my_app",
-    "short_name": "my_app",
+    "name": "problemstatement3",
+    "short_name": "problemstatement3",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
